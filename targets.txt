@@ -1,0 +1,14 @@
+badssl.com:443
+sha256.badssl.com:443
+ecc256.badssl.com:443
+rsa2048.badssl.com:443
+tls-v1-2.badssl.com:443
+expired.badssl.com:443
+self-signed.badssl.com:443
+wrong.host.badssl.com:443
+untrusted-root.badssl.com:443
+revoked.badssl.com:443
+tls-v1-0.badssl.com:443
+tls-v1-1.badssl.com:443
+rc4.badssl.com:443
+3des.badssl.com:443
